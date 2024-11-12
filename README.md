@@ -10,3 +10,6 @@ hehe
 
 ## new feature branch 
 1. open your browser
+
+
+modifying another branch to learn branch conflcts
